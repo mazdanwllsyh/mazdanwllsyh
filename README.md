@@ -15,7 +15,7 @@ Proyek skripsi saya berfokus pada perancangan dan implementasi aplikasi web *ful
 ### 💻 Tech Stack yang Saya Kuasai:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,mongodb,git,vscode,npm,canva" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,mongodb,git,vscode,npm," />
   </a>
 </p>
 
