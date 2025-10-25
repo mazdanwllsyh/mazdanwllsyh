@@ -1,6 +1,6 @@
 ### Halo, saya Mazda Nawallsyah! 👋
 
-Seorang **Junior Front-End Developer** dengan pemahaman Full-Stack yang solid, bersemangat untuk menciptakan antarmuka web yang intuitif, responsif, dan modern.
+Seorang **Junior Front-End Developer** dengan pemahaman Front-End Developer yang solid, bersemangat untuk menciptakan antarmuka web yang intuitif, responsif, dan modern.
 
 ---
 
@@ -8,7 +8,7 @@ Seorang **Junior Front-End Developer** dengan pemahaman Full-Stack yang solid, b
 
 Saya adalah seorang Fresh Graduate dari program **Teknik Informatika, Universitas Semarang**.
 
-Meskipun fokus utama saya adalah **Front-End Development**, pengalaman membangun aplikasi **MERN Stack** secara *end-to-end* untuk proyek skripsi memberikan saya pemahaman mendalam tentang bagaimana front-end berinteraksi dengan API dan database. Hal ini memungkinkan saya untuk berkolaborasi secara lebih efektif dengan tim back-end.
+Meskipun fokus utama saya adalah **Front-End Development**, saya pernah membangun sistem pengelolaan **MERN Stack** secara *end-to-end* untuk proyek skripsi memberikan saya pemahaman mendalam tentang bagaimana front-end berinteraksi dengan API dan database. Hal ini memungkinkan saya untuk berkolaborasi secara lebih efektif dengan tim back-end.
 
 Saya selalu antusias untuk belajar, beradaptasi dengan teknologi baru, dan siap mengubah ide-ide kreatif menjadi produk digital yang nyata.
 
