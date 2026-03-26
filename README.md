@@ -1,16 +1,14 @@
-### Halo, saya Mazda Nawallsyah! 👋
+### Hi there, I'm Mazda Nawallsyah! 👋
 
-Seorang **Junior Front-End Developer** dengan pemahaman Front-End Developer yang solid, bersemangat untuk menciptakan antarmuka web yang intuitif, responsif, dan modern.
+A passionate **Frontend Web Developer** with a solid foundation in modern web technologies, dedicated to creating intuitive, responsive, and scalable user interfaces.
 
 ---
 
-### 🌱 Tentang Saya
+### 🌱 About Me
 
-Saya adalah seorang Fresh Graduate dari program **Teknik Informatika, Universitas Semarang**.
-
-Meskipun fokus utama saya adalah **Front-End Development**, saya pernah membangun sistem pengelolaan **MERN Stack** secara *end-to-end* untuk proyek skripsi memberikan saya pemahaman mendalam tentang bagaimana front-end berinteraksi dengan API dan database. Hal ini memungkinkan saya untuk berkolaborasi secara lebih efektif dengan tim back-end.
-
-Saya selalu antusias untuk belajar, beradaptasi dengan teknologi baru, dan siap mengubah ide-ide kreatif menjadi produk digital yang nyata.
+- [cite_start]🎓 I'm a highly motivated Fresh Graduate in **Computer Science (Teknik Informatika)** from Universitas Semarang[cite: 87].
+- 💻 While my core expertise lies in **Front-End Development**, I have successfully built and deployed end-to-end applications using the **MERN Stack** (including my thesis project and live freelance projects). This full-stack exposure gives me a deep understanding of how the frontend seamlessly interacts with APIs and databases, allowing me to collaborate effectively with backend teams.
+- 🚀 I am highly enthusiastic about continuous learning, adapting to cutting-edge technologies, and transforming creative ideas into impactful real-world digital products.
 
 ---
 
@@ -20,8 +18,9 @@ Saya selalu antusias untuk belajar, beradaptasi dengan teknologi baru, dan siap 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
@@ -32,7 +31,7 @@ Saya selalu antusias untuk belajar, beradaptasi dengan teknologi baru, dan siap 
 
 ---
 
-### 📊 Statistik GitHub Saya:
+### 📊 My GitHub Stats:
 
 <p align="center">
   <table>
@@ -49,16 +48,16 @@ Saya selalu antusias untuk belajar, beradaptasi dengan teknologi baru, dan siap 
 
 ---
 
-### 📬 Hubungi Saya di:
+### 📬 Let's Connect:
 
 <p align="left">
-  <!-- <a href="[LINK_PROFIL_LINKEDIN_KAMU]">
+  <a href="https://www.linkedin.com/in/mazda-nwllsyah/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> -->
-  <a href="https://www.instagram.com/mazda.nwllsyah_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:mazdanawallsyahoddygolafe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/mazda.nwllsyah_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
