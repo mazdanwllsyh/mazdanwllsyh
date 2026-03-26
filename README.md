@@ -6,12 +6,13 @@ A passionate **Frontend Web Developer** with a solid foundation in modern web te
 
 ### 🌱 About Me
 
-- [cite_start]🎓 I'm a highly motivated Fresh Graduate in **Computer Science (Teknik Informatika)** from Universitas Semarang[cite: 87].
-- 💻 While my core expertise lies in **Front-End Development**, I have successfully built and deployed end-to-end applications using the **MERN Stack** (including my thesis project and live freelance projects). This full-stack exposure gives me a deep understanding of how the frontend seamlessly interacts with APIs and databases, allowing me to collaborate effectively with backend teams.
-- 🚀 I am highly enthusiastic about continuous learning, adapting to cutting-edge technologies, and transforming creative ideas into impactful real-world digital products.
+I am a highly motivated Fresh Graduate in **Computer Science (Teknik Informatika)** from Universitas Semarang, specializing in **Front-End Development**. I am deeply passionate about crafting intuitive, responsive, and modern web interfaces that deliver seamless user experiences.
 
----
+Here are a few highlights about my background:
 
+- ⚡ **Full-Stack Exposure:** While my core focus is frontend engineering, I have successfully built end-to-end applications using the **MERN Stack** (including my thesis project). This hands-on experience gives me a solid understanding of how front-end systems seamlessly interact with APIs and databases.
+- 🤝 **Effective Collaborator:** My exposure to full-stack development allows me to bridge the gap and communicate effectively with back-end teams to ensure robust system integration.
+- 🚀 **Continuous Learner:** I am always enthusiastic about exploring new technologies, adapting to modern frameworks, and transforming creative ideas into impactful real-world digital products.
 ### 💻 Tech Stack:
 
 <p align="left">
