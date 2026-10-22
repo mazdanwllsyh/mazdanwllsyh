@@ -29,10 +29,10 @@ I am a **Computer Science (Teknik Informatika)** graduate from Universitas Semar
 
 <div align="center">
   <a href="https://github.com/mazdanwllsyh">
-    <img src="https://github-readme-stats.vercel.app/api?username=mazdanwllsyh&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true&bg_color=0D1117" alt="Mazda's GitHub Stats" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mazdanwllsyh&show_icons=true&theme=dracula&rank_icon=github&count_private=true&hide_border=true&bg_color=0D1117" alt="Mazda's GitHub Stats" height="166px"/>
   </a>
   <a href="https://github.com/mazdanwllsyh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazdanwllsyh&theme=dracula&hide_border=true&background=0D1117" alt="Mazda's GitHub Streak" height="192px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazdanwllsyh&theme=dracula&hide_border=true&background=0D1117" alt="Mazda's GitHub Streak" height="166px"/>
   </a>
 </div>
 
@@ -41,7 +41,7 @@ I am a **Computer Science (Teknik Informatika)** graduate from Universitas Semar
 ### 📬 Industry Networking & Collaboration
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mazdanawallsyah">
+  <a href="https://www.linkedin.com/in/mazda-nwllsyah/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mazdanawallsyah2601@gmail.com">
